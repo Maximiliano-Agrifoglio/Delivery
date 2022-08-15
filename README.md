@@ -1,3 +1,3 @@
 # Delivery
 Pagina web de comida rapida.
-Proyectos hechos con Flexbox,Css-Grid & Sass
+Proyecto hecho con Flexbox,Css-Grid & Sass
